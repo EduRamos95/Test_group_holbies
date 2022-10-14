@@ -1,1 +1,3 @@
-hola
+hola = daysi
+print("hola", hola)
+
